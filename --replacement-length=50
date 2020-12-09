@@ -1,0 +1,8 @@
+ܙ=𐲜("Enter your Age :")
+𐲜=input
+ﶷ=print
+if ܙ>=18:
+ ﶷ("Eligible")
+else:
+ ﶷ("Not eligible")
+# Created by pyminifier (https://github.com/liftoff/pyminifier)
